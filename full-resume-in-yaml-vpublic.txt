@@ -1,0 +1,260 @@
+# Robot (and human) friendly CV written in YAML (yaml.org) by John
+# Public version
+
+John Oberlin:
+  area:             Washington, DC
+  website:          https://github.com/oberljn
+  overview:         >
+    Data science graduate student with cybersecurity focus at the University of
+    Maryland Baltimore County. Hands-on experience with data collection,
+    extraction and transformation, fundamental exploratory analysis, and web
+    development. With a background in journalism and education, brings solid
+    communication skills, such as interviewing, research, writing and editing.
+
+Education:
+
+  Data Science Master Degree:
+    degree:         Master of Professional Studies
+    major:          Data Science
+    concentration:  Cybersecurity
+    institution:    University of Maryland Baltimore County
+    location:       Rockville, Maryland
+    from:           2019-01-29
+    to:             2020-05-01
+    select-courses:
+      - Engineering Management
+      - Introduction to Cybersecurity (maps to CompTIA Security+)
+      - Introduction to Data Science
+    projects:
+      - TCP SYN flood attacks analytics
+
+  TESL Master Degree:
+    degree:         Master of Arts
+    major:          Teaching English as a Second Language
+    institution:    Kent State University
+    location:       Kent, Ohio
+    from:           2011-06-01
+    to:             2012-12-15
+    gpa:            4.00
+    hours:          36 credit hours
+    select-courses:
+      - College Student Development
+      - Linguistics for Language Professions
+      - Pragmatics of Conversation
+      - Second Language Curriculum and Testing
+    projects:
+      - Arabic-English interlanguage pragmatics research
+      - Curriculum development
+      - English and Arabic linguistics research
+      
+  Journalism Bachelor Degree:
+    degree:         Bachelor of Science
+    major:          Journalism and Mass Communication
+    concentration:  Magazine Journalism
+    institution:    Kent State University
+    location:       Kent, Ohio
+    from:           2002-08-20
+    to:             2006-12-16
+    gpa:            3.217
+    hours:          145 credit hours
+    select-courses:
+      - Copyediting
+      - Magazine Writing and Editing
+      - Media and Information Gathering
+      - Visual Design Media
+    projects:
+      - Assistant managing editor for The Burr magazine (Fall, 2006)
+      - Wrote for Seeds of Change magazine and The Daily Kent Stater newspaper
+    links:
+      - https://drive.google.com/drive/folders/1-_IgE7IdNnIIP0VqNR15oIPSGWg9Uk76?usp=sharing
+
+Work Experience:
+
+  HopSkipDrive:
+    role:           Data Collection
+    type:           freelance
+    from:           2018-12-20
+    to:             present
+    location:       remote
+    duties:
+      - Researched and collected contact information for specific verticals.
+      - Programmed mass collection of web data in Python.
+      - Bulk cleaned data entries with Google Sheets / Microsoft Excel.
+    links:
+      - https://github.com/oberljn/regex-for-contacts
+      
+  Proper Cookie Dough:
+    role:           Data Collection
+    type:           freelance
+    from:           2019-03-04
+    to:             2019-03-07
+    location:       remote
+    duties:
+      - Researched and collected contact information for specific veriical.
+      - Called contacts to confirm additional, detailed information.
+  
+  Lyft Driver Client:
+    role:           JavaScript Developer
+    type:           freelance
+    from:           2019-02-01
+    to:             2019-02-12
+    location:       remote
+    duties:
+      - Wrote a Google Chrome extension in JavaScript that captures Lyft receipt data points, which are stored in JSON and then easily copied in tabular format by the client.
+    links:
+      - https://github.com/oberljn/lift-lyft
+
+  OAS Appraisal Services:
+    role:           Data Support
+    type:           freelance
+    from:           2017-06-01
+    to:             2018-12-20
+    location:       remote
+    duties:
+      - Researched and inputted real estate data.
+      - Collected data from Multiple Listing Service and government open databases, manually, via Python, and RESTful API.
+      - Programmatically processed data into XML for import.
+      - Verified and updated data in Uniform Residential Appraisal Reports.
+      - Cleaned order data of 13,000 records.
+    links:
+      - https://github.com/oberljn/auditor-api
+      - https://github.com/oberljn/orders-fee-distribution
+      - https://github.com/oberljn/urar-scraper
+      - https://github.com/oberljn/volume-analysis
+    
+  BlueForce and MultiLingual Solutions:
+    role:           English Language Teacher
+    type:           full-time
+    from:           2018-05-01
+    to:             2018-12-15
+    location:       Dhahran, Saudi Arabia
+    duties:
+      - Delivered ESL courses within the DoD Defense Language Institute curriculum.
+      - Completed weekly cadet progress reports.
+      - Developed a more efficient progress reporting system in Google Suite better aligned to learning goals.
+    links:
+      - https://github.com/oberljn/progress-report-generator
+
+  Cuyahoga Community College:
+    role:           Adjunct Professor
+    type:           adjunct
+    from:           2018-01-17
+    to:             2018-04-20
+    location:       Cleveland, Ohio
+    duties:
+      - Designed and delivered ESL courses to students of diverse cultural and linguistic backgrounds.
+    
+  King Abdulaziz University:
+    role:           Lecturer
+    type:           full-time
+    from:           2015-09-01
+    to:             2017-06-01
+    location:       Jeddah, Saudi Arabia
+    duties:
+      - Taught courses comprised of Arabic speakers in university preparatory year.
+      - Wrote and edited exams for Academic Development Unit.
+      - Invigilated mid-term and final exams.
+    links:
+      - https://github.com/oberljn/roster-cleanup
+
+  Prince Muhammad bin Fahd University:
+    role:           Lecturer
+    type:           full-time
+    from:           2013-08-01
+    to:             2015-06-01
+    location:       Khobar, Saudi Arabia
+    duties:
+      - Taught courses comprised of Arabic speakers in university preparatory year.
+      - Managed student data on course management system Blackboard Learn.
+      - Delivered professional development presentations on BlackBoard Learn.
+
+  Kent State University:
+    role:           Adjunct Professor
+    type:           adjunct
+    from:           2011-03-01
+    to:             2013-06-01
+    location:       Kent, Ohio
+    duties:
+      - Designed and delivered skills-based English courses.
+      - Taught multicultural classes of Arabic-, Mandarin-, and Japanese-speaking students.
+      - Designed courses on course management system Blackboard Learn.
+      - Contributed to grammar curriculum for all levels.
+      - Delivered professional development presentations.
+
+  The University of Akron:
+    role:           Adjunct Professor
+    type:           adjunct
+    from:           2012-01-01
+    to:             2012-04-01
+    location:       Akron, Ohio
+    duties:
+      - Designed and taught skills-based writing courses comprised of Arabic speakers.
+    
+  Vendome Group LLC:
+    role:           Online Editor
+    type:           full-time
+    from:           2007-01-01
+    to:             2009-05-01
+    location:       Cleveland, Ohio
+    duties:
+      - Wrote for HEALTHCARE DESIGN and Long-Term Living magazines
+      - Interviewed field experts.
+      - Copyedited and managed weekly online newsletters and Web site content.
+      - Designed Web images, video, and podcasts.
+      - Edited HTML.
+      - Managed articles via content management systems.
+    links:
+      - https://drive.google.com/drive/folders/1-_IgE7IdNnIIP0VqNR15oIPSGWg9Uk76?usp=sharing
+
+  Co-op Publishing Ltd:
+    role:           Editor
+    type:           freelance
+    from:           2007-01-01
+    to:             2008-12-01
+    location:       South Euclid, Ohio
+    duties:
+      - Copyedited and designed 160-page book, Small Groups: The Process of Change.
+      - Applied Microsoft Word formatting and design.
+      - Created marketing materials and a website.
+
+  Pfingsten Publishing:
+    role:           Editorial Intern
+    type:           internship
+    from:           2006-08-01
+    to:             2006-12-01
+    location:       Seven Hills, Ohio
+    duties:
+      - Wrote for Art Business News magazine
+      - Edited and proofed feature articles.
+      - Managed Web site content.
+
+Certifications:
+
+  DoD English Language Center Certificate of Training:
+    institution:    Defense Language Institute English Language Center
+    location:       Lackland, Texas
+    from:           2017-10-23
+    to:             2017-10-27
+    hours:          40 hours
+    description:    >
+      Familiarized with US Department of Defense American Language Course (ALC).
+  
+  Teaching English as a Foreign Language Certificate:
+    institution:    Kent State University and Technical University of Dresden
+    location:       Dresden, Germany
+    from:           2009-06-01
+    to:             2009-07-01
+    hours:          270 hours (18 credit hours)
+    description:    >
+      Studied ESL pedagogical methods and English linguistics and grammar.
+      Gained experience student teaching university, grade school, and community
+      classes.
+
+  Drafting and Design Certificate:
+    institution:    Washington High School
+    location:       Massillon, Ohio
+    from:           2001-09-01
+    to:             2002-05-01
+    description:    >
+      Used computer-aided design (CAD) programs and drafting tools. Prepared
+      architectural and mechanical drawings.
