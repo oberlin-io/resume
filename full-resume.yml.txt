@@ -2,7 +2,7 @@
 # Public version
 
 John Oberlin:
-  area:             Washington, DC
+  region:           Northern Virginia
   website:          https://github.com/oberljn
   overview:         >
     Data science graduate student with cybersecurity focus at the University of
