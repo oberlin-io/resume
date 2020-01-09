@@ -20,13 +20,16 @@ Education:
     institution:    University of Maryland Baltimore County
     location:       Rockville, Maryland
     from:           2019-01-29
-    to:             2020-05-01
+    to:             2020-07-01
+    gpa:            3.77
     select-courses:
+      - Introduction to Data Analysis and Machine Learning
+      - Data Management
       - Engineering Management
+      - Cybersecurity Risk Management and Compliance
       - Introduction to Cybersecurity (maps to CompTIA Security+)
-      - Introduction to Data Science
     projects:
-      - TCP SYN flood attacks analytics
+      - TCP SYN flood attack visualization
 
   TESL Master Degree:
     degree:         Master of Arts
@@ -70,28 +73,28 @@ Education:
 
 Work Experience:
 
+  American College of Radiology:
+    role:           Data Analyst
+    type:           full-time
+    from:           2019-06-01
+    to:             present
+    location:       Reston, Virginia
+    duties:
+      - Develop and interprut business requirements in an Agile environment.
+      - Write querries in Microsoft SQL Server.
+      - Validate, clean, and manipulate data via Python.
+      - Design and present data visualizations in Tableau.
+
   HopSkipDrive:
     role:           Data Collection
     type:           freelance
     from:           2018-12-20
-    to:             present
+    to:             2019-05-01
     location:       remote
     duties:
       - Researched and collected contact information for specific verticals.
       - Programmed mass collection of web data in Python.
       - Bulk cleaned data entries with Google Sheets / Microsoft Excel.
-    links:
-      - https://github.com/oberljn/regex-for-contacts
-      
-  Proper Cookie Dough:
-    role:           Data Collection
-    type:           freelance
-    from:           2019-03-04
-    to:             2019-03-07
-    location:       remote
-    duties:
-      - Researched and collected contact information for specific veriical.
-      - Called contacts to confirm additional, detailed information.
   
   Lyft Driver Client:
     role:           JavaScript Developer
