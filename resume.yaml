@@ -98,9 +98,9 @@ Work Experience:
     to:             2019-05-01
     location:       remote
     duties:
-      - Researched and collected contact information for specific verticals.
-      - Programmed mass collection of web data in Python.
       - Bulk cleaned data entries with Google Sheets / Microsoft Excel.
+      - Programmed mass collection of web data in Python.
+      - Researched and collected contact information for specific verticals.
   
   Lyft Driver Client:
     role:           JavaScript Developer
@@ -125,11 +125,6 @@ Work Experience:
       - Programmatically processed data into XML for import.
       - Verified and updated data in Uniform Residential Appraisal Reports.
       - Cleaned order data of 13,000 records.
-    links:
-      - https://github.com/oberljn/auditor-api
-      - https://github.com/oberljn/orders-fee-distribution
-      - https://github.com/oberljn/urar-scraper
-      - https://github.com/oberljn/volume-analysis
     
   BlueForce and MultiLingual Solutions:
     role:           English Language Teacher
@@ -141,8 +136,6 @@ Work Experience:
       - Delivered ESL courses within the DoD Defense Language Institute curriculum.
       - Completed weekly cadet progress reports.
       - Developed a more efficient progress reporting system in Google Suite better aligned to learning goals.
-    links:
-      - https://github.com/oberljn/progress-report-generator
 
   Cuyahoga Community College:
     role:           Adjunct Professor
@@ -163,8 +156,6 @@ Work Experience:
       - Taught courses comprised of Arabic speakers in university preparatory year.
       - Wrote and edited exams for Academic Development Unit.
       - Invigilated mid-term and final exams.
-    links:
-      - https://github.com/oberljn/roster-cleanup
 
   Prince Muhammad bin Fahd University:
     role:           Lecturer
